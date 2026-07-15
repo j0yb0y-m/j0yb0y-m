@@ -1,6 +1,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=220&section=header&text=J0yB0y&fontSize=70&fontColor=cdd6f4&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Junior%20Pentester%20%7C%20Dev&descAlignY=58&descSize=18" /> <a href="https://github.com/j0yb0y-m"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student;Junior+Penetration+Tester;Linux+Enthusiast+%7C+CachyOS+btw;Building+in+Python+%2F+Go+%2F+C+%2F+C%2B%2B+%2F+JS" /> </a>
 
-<img src="https://komarev.com/ghpvc/?username=j0yb0y-m&color=cba6f7&style=for-the-badge&label=PROFILE+VIEWS" />
+<br><br>
+    <img src="https://komarev.com/ghpvc/?username=j0yb0y-m&color=cba6f7&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 

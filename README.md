@@ -8,15 +8,13 @@
 
 ```bash
 mahdi@j0yb0y:~$ whoami
-Mahdi "J0yB0y" — Cybersecurity Engineering Student, 2nd year
+Mahdi "J0yB0y" — Cybersecurity Engineering Student
 
 mahdi@j0yb0y:~$ cat focus.txt
 Penetration Testing / Offensive Security
 
 mahdi@j0yb0y:~$ neofetch --minimal
 Location   Iraq
-Shell      fish
-Theme      Catppuccin Mocha
 Status     [ONLINE] probably breaking something on purpose
 
 mahdi@j0yb0y:~$ _
@@ -33,12 +31,11 @@ mahdi@j0yb0y:~$ _
 <img src="https://img.shields.io/badge/Nmap-1e1e2e?style=for-the-badge&logo=nmap&logoColor=F38BA8&labelColor=1e1e2e" /> <img src="https://img.shields.io/badge/Burp%20Suite-1e1e2e?style=for-the-badge&logo=burpsuite&logoColor=FAB387&labelColor=1e1e2e" /> <img src="https://img.shields.io/badge/Metasploit-1e1e2e?style=for-the-badge&logo=metasploit&logoColor=89B4FA&labelColor=1e1e2e" /> <img src="https://img.shields.io/badge/Wireshark-1e1e2e?style=for-the-badge&logo=wireshark&logoColor=94E2D5&labelColor=1e1e2e" /> </div> <br> <div align="center">
 
 ### Stats
-
-<img height="165" src="./profile/stats.svg" /> <img height="165" src="./profile/top-langs.svg" /> <br> <img src="https://streak-stats.demolab.com/?user=j0yb0y-m&theme=catppuccin-mocha&border=cba6f7&hide_border=false" /> </div> <br> <div align="center">
+<img height="165" src="./profile/top-langs.svg" /> <br> <img src="https://streak-stats.demolab.com/?user=j0yb0y-m&theme=catppuccin-mocha&border=cba6f7&hide_border=false" /> </div> <br> <div align="center">
 
 ### Contribution Graph
 
-<!--START_SECTION:activity--> <!-- this section auto-fills once you wire up the activity-graph action, see notes below --> <!--END_SECTION:activity--> <img src="https://github-readme-activity-graph.vercel.app/graph?username=j0yb0y-m&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5c2e7&area=true&hide_border=true" width="100%" /> </div> <br> <div align="center"> <!-- Snake contribution animation - requires the GitHub Action below --> <img src="https://raw.githubusercontent.com/j0yb0y-m/j0yb0y-m/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div> <br> <div align="center">
+<!--START_SECTION:activity--> <br> <div align="center"> <img src="https://raw.githubusercontent.com/j0yb0y-m/j0yb0y-m/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div> <br> <div align="center">
 
 ### Connect
 
